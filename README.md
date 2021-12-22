@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring technologies and developing software solutions.
 - 💼 &nbsp; Working as a DevOps Engineer at TOTVS SA.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and DevOps Tools.
-- ✍️ &nbsp; Pursuing racing drone things as hobbies and side hustles.
+- 😍 &nbsp; Pursuing racing drone things as hobbies and side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -16,8 +16,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 💻 &nbsp;
   ![Go Lang](https://img.shields.io/badge/-Go%20Lang-333333?style=flat&logo=Go&logoColor=007396)
-  ![C Lang](https://img.shields.io/badge/-C%20Lang-333333?style=flat&logo=C&logoColor=00599C)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=shell&logoColor=007396)
+  ![C Lang](https://img.shields.io/badge/-C%20Lang-333333?style=flat&logo=C&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
@@ -31,6 +31,9 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- ⭐️ &nbsp;
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+  ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 - 🖥 &nbsp;
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
