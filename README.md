@@ -24,9 +24,11 @@ Principal Engineer building cloud-native and distributed systems at scale.
 - 🔧 &nbsp;<b>Platform & Infrastructure</b><br/>
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
   ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+  ![OCM](https://img.shields.io/badge/-OCM-333333?style=flat&logo=openshift)
+  ![FluxCD](https://img.shields.io/badge/-FluxCD-333333?style=flat&logo=fluxcd)
   ![Pulumi](https://img.shields.io/badge/-Pulumi-333333?style=flat&logo=pulumi)
   ![Helm](https://img.shields.io/badge/-Helm-333333?style=flat&logo=helm)
-  ![Argo CD](https://img.shields.io/badge/-Argo%20CD-333333?style=flat&logo=argo)
 
 - 💻 &nbsp;<b>Languages</b><br/>
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
@@ -37,8 +39,7 @@ Principal Engineer building cloud-native and distributed systems at scale.
 - ☁️ &nbsp;<b>Cloud Providers</b><br/>
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
   ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-
+    
 - ⭐ &nbsp;<b>Observability</b><br/>
   ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
   ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
